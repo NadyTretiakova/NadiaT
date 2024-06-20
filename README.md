@@ -5,4 +5,4 @@
 |Name|Setting|
 |----|-------|
 
-`Something`
+`Something updated`
